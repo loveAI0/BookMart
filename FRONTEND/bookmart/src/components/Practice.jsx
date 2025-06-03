@@ -1,1 +1,0 @@
-// two input fileds and apply css.
